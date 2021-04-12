@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "db",
+		"path": "../../../Desktop/mvp_hr/db"
+	},
+	{
+		"name": "mvp",
+		"path": "."
+	},
+	{
+		"name": "server",
+		"path": "../../../Desktop/mvp_hr/server"
+	}
+],
+  "settings": {}
+}
