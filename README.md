@@ -1,4 +1,4 @@
-# Wallace Corporation
+# Tripper
 
 <p align="center">
   <a href="https://github.com/lucipak/Tripper_Travel_App">
