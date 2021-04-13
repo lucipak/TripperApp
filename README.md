@@ -1,12 +1,4 @@
 # Tripper
-
-<p align="center">
-  <a href="https://github.com/lucipak/Tripper_Travel_App">
-  </a>
-</p>
-
-# Contributor
-
 [Luci Pak](https://github.com/lucipak "Luci Pak")
 
 # Introduction
