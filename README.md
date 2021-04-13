@@ -49,17 +49,17 @@ This was a passion project for myself becuase I am always looking for my next tr
 # How does the app work?
 Login:
 <br />
-<img src="./public/img/Product Overview Thumbnails.gif">
+<img src="./src/gifs/login.gif">
 
 Saved and Book Trip Cards:
 <br />
-<img src="./public/img/Product Overview Expanded and Zoomed.gif">
+<img src="./src/gifs/cards.gif">
 
 New Trip Stepper:
 <br />
-<img src="./public/img/Add to Cart.gif">
+<img src="./src/gifs/stepper.gif">
 
 Logout:
 <br />
-<img src="./public/img/Questions Display.gif">
+<img src="./src/gifs/logout.gif">
 
