@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Wallace Corporation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://github.com/lucipak/Tripper_Travel_App">
+  </a>
+</p>
 
-## Available Scripts
+# Contributor
 
-In the project directory, you can run:
+[Luci Pak](https://github.com/lucipak "Luci Pak")
 
-### `npm start`
+# Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Tripper Travel App is a fullstack application designed to be a travel planner and travel inspiration board attached to your own user account. The primary features include the ability to login or create a new account, create a new trip that fetches data from a travel API that consists of flights, hotels, and points of interests specific to the dates you set and your destination, and the ability to save, delete, or book these trips. 
+This was a passion project for myself becuase I am always looking for my next trip and would love a one-stop shop to make all necessary plans in one place. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Tech Stack
+<ul>
+<li>GraphQL</li>
+<li>Express</li>
+<li>Node.js</li>
+<li>Apollo Server/Client</li>
+<li>Javascript</li>
+<li>PostgreSQL</li>
+<li>CSS</li>
+<li>Bootstrap icons</li>
+</ul>
 
-### `npm test`
+# Technical Challenges and Research
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# User Stories
+<ul>
+<li>As a user, I want to be able to login to my account or create a new account if I'm new to the site</li>
+<li>As a user, I want to be able to logout back to the landing page</li>
+<li>As a user, I want to be able to see all my upcoming trips and my saved trips</li>
+<li>As a user, I want to be able to book my saved trips</li>
+<li>As a user, I want to be able to delete a saved trip or unbook an upcoming trip</li>
+<li>As a user, I want to be able create a new trip based on a destination of my choosing and choose which dates I would like to travel</li>
+</ul>
 
-### `npm run build`
+# What's next?
+<ul>
+<li>The ability to input more user data tagged to their account</li>
+<li>Use third party authentication</li>
+<li>Be able to actually book trips</li>
+<li>Transition into a mobile app</li>
+</ul>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# How does the app work?
+Login:
+<br />
+<img src="./public/img/Product Overview Thumbnails.gif">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Saved and Book Trip Cards:
+<br />
+<img src="./public/img/Product Overview Expanded and Zoomed.gif">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+New Trip Stepper:
+<br />
+<img src="./public/img/Add to Cart.gif">
 
-### `npm run eject`
+Logout:
+<br />
+<img src="./public/img/Questions Display.gif">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
