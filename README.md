@@ -15,7 +15,6 @@ This was a passion project for myself becuase I am always looking for my next tr
 <li>Javascript</li>
 <li>PostgreSQL</li>
 <li>CSS</li>
-<li>Bootstrap icons</li>
 </ul>
 
 # Technical Challenges and Research
